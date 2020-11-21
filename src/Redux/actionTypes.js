@@ -1,0 +1,6 @@
+export const ADD_TASK = "ADD_TASK"
+export const DELETE_TASK = "DELETE_TASK"
+export const COMPLETE_TASK = "COMPLETE_TASK"
+export const NON_COMPLETED = "NON_COMPLETED"
+export const LOG_IN = "LOG_IN"
+export const LOG_OUT = "LOG_OUT"
